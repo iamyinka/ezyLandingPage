@@ -197,7 +197,14 @@
 							  </div>
 
 
-							  <div class="col-md-4">
+							</div>
+
+						</div>
+
+
+						<div class="row">
+						  <div class="container testimony">
+								<div class="col-md-4">
 							    <div class="panel panel-success">
 							      <div class="panel-heading">
 							        <h3 class="panel-title">- Yinka <span>. Penang</span></h3>
@@ -259,9 +266,13 @@ effective this is."</p>
 							      </div>
 							    </div>
 							  </div>
+						  </div>
+						</div>
 
 
 
+						<div class="row">
+						  <div class="container testimony">
 
 								<div class="col-md-4">
 							    <div class="panel panel-primary">
