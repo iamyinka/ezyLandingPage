@@ -149,3 +149,13 @@ button, select {
 	padding-top: 10px;
 	text-align: justify;
 }
+
+.testimony .panel-body {
+	text-align: inherit;
+	min-height: 480px;
+}
+
+.testimony h3.panel-title span {
+	color: #ccc;
+	font-size: .8em;
+}
